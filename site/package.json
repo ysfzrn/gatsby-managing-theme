@@ -1,0 +1,18 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "author": "ysfzrn",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.18.21",
+    "itsalljs-theme": "*",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
